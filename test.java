@@ -1,5 +1,7 @@
-class myClass {
-    public static void main(String[ ] args) {
-        System.out.println("60");
-    }
+public class Program
+{
+    public static void main(String[] args) {
+		//print "Java is fun"
+        System.out.println("Java is fun");
+	}
 }

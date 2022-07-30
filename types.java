@@ -13,4 +13,8 @@ double d = 4.5;
 
 // or 
 
-float = (float) 4.5;
+float f = (float) 4.5;
+
+// characters are it's own type
+
+char c = 'c';
